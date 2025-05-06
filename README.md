@@ -1,9 +1,9 @@
 ### Creeper is cute. uwu!  
   
 ## About me  
-I from Taiwan.  
-I was make a discord bot before.
-But now I tend to make C# Windows forms. 
+I from Taiwan.<br>
+I was make a discord bot before.<br>
+But now I tend to make C# Windows forms.<br> 
 
 ## Contact me  
 Email: [jimmcreeper@gmail.com](jimmcreeper@gmail.com)  
