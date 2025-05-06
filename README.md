@@ -2,12 +2,12 @@
   
 ## about me  
 I from Taiwan.  
-I love make discord bot.  
-you can ask me smone djs question.  
+I was make a discord bot before.
+But now I tend to make C# Windows forms. 
   
 ## Contact me  
 Email: [jimmcreeper@gmail.com](jimmcreeper@gmail.com)  
-Discord: [苦力怕怕#8558](https://discordapp.com/users/546144403958398988)  
+Discord: [苦力怕怕](https://discordapp.com/users/546144403958398988)  
 Twitter: [CreeperJIMM](https://twitter.com/CreeperJIMM)  
 
 
